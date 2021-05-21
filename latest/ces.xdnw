@@ -10,3 +10,9 @@ U: {tel}, {zál}, {loc} の 3 単語に対してだけは、{ces} を代わり�
 U: 基本的に文脈中で前に出てきた単語を指す。主節に前置された副詞節の中では、後に出てくる主節にある単語を指すこともある。
 
 S: {dusalot a tel e zis asokes itazi ʻxalih iti duqifot zelqotos a's e zis acik.} → 私はシャリアにとって無視できないほど大切な人間ではない。
+
+!EN
++ <N>
+= <N> he, she, his, her, him
+
+U: A pronoun for a person. Represents both a male and a female.

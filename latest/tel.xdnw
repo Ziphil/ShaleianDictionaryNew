@@ -6,3 +6,9 @@
 
 U: 一人称単数を表す。日本語のように多様ではなく、{tel} のみである。
 U: 一人称複数は {zál} で、{tel avef} とはできない。これは、「私たち」というのは「私」が複数いるのではなく、「私」を含む人間複数を指すためである。
+
+!EN
++ <N>
+= <N> I, my, me
+
+U: {tel} does not change its form regardless of the grammatical case, since Shaleian language uses particles to indicate cases.
