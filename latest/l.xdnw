@@ -10,3 +10,13 @@ U: {l} に係る基本助詞句の種類は、{l} が代わりをしている動
 U: 受ける動詞句が否定文の場合、{l} の肯定形 (否定接頭辞がつかない形) の意味は否定文になる。一方、{l} を否定形で使うと、前の否定文の否定を意味するので肯定の意味になる。以下の例文を参照。
 
 S: {dukavat a tel e qaled, dà dulat a ces.} → 私には弟がいないが、彼にはいる。
+
+!EN
++ <V>
+= <V> do
+
+U: This is used in place of the preceding verb to avoid repetition of the same verb. This can also replace the entirety of a verb and some of the prepositional phrases that modify it. This does not need to agree in tense or aspect with the substituted verb. Note that this does not have to agree with the preceding verb in its content. In other words, this corresponds to the proform {met}, not {cit}.
+U: The basic particles modifying {l} depends on the verb that {l} is replacing. For this reason, the case frame in the equivalent word section is left blank.
+U: When the substituted verbal phrase is negative, the affirmative form of {l} (the form without the negative prefix) has a negative meaning. On the other hand, when {l} is used in the negative form, it means the negation of the previous negative phrase, and thus it means the affirmative. See the following example sentences.
+
+S: {dukavat a tel e qaled, dà dulat a ces.} → I don't have a brother, but he does.
