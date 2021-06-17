@@ -8,6 +8,7 @@
 U: 同じ動詞の重複を避けるため、前に出てきた動詞の代わりに用いる。動詞とそれを修飾するいくつかの助詞句全体の代わりにもなる。前の動詞と時制や相が一致している必要はない。注意すべきなのは、前の動詞と内容まで一致するわけではないということである。言い方を変えれば、代詞の {cit} ではなく {met} に対応する。
 U: {l} に係る基本助詞句の種類は、{l} が代わりをしている動詞に依存する。そのため、語義欄の格組は空欄とした。
 U: 受ける動詞句が否定文の場合、{l} の肯定形 (否定接頭辞がつかない形) の意味は否定文になる。一方、{l} を否定形で使うと、前の否定文の否定を意味するので肯定の意味になる。以下の例文を参照。
+U: この単語の語幹にはアクセントをもつための母音がなく、規則上アクセントは活用接尾辞には来ないので、結果的にこの単語の活用形は全てアクセントをもたない。
 
 S: {dukavat a tel e qaled, dà dulat a ces.} → 私には弟がいないが、彼にはいる。
 
@@ -18,5 +19,6 @@ S: {dukavat a tel e qaled, dà dulat a ces.} → 私には弟がいないが、�
 U: This is used in place of the preceding verb to avoid repetition of the same verb. This can also replace the entirety of a verb and some of the prepositional phrases that modify it. This does not need to agree in tense or aspect with the substituted verb. Note that this does not have to agree with the preceding verb in its content. In other words, this corresponds to the proform {met}, not {cit}.
 U: The basic particles modifying {l} depends on the verb that {l} is replacing. For this reason, the case frame in the equivalent word section is left blank.
 U: When the substituted verbal phrase is negative, the affirmative form of {l} (the form without the negative prefix) has a negative meaning. On the other hand, when {l} is used in the negative form, it means the negation of the previous negative phrase, and thus it means the affirmative. See the following example sentences.
+U: The stem of this word has no vowel to be accented, and accents do not fall on conjugation suffixes by rule. As a result, all the conjugated forms of this word are unaccented.
 
 S: {dukavat a tel e qaled, dà dulat a ces.} → I don't have a brother, but he does.
