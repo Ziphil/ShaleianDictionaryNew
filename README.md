@@ -13,5 +13,5 @@
 オンライン辞典などの Web 上の各種辞典システムは、現在移行作業中です。
 以下のリンクから辞典データの検索やダウンロードができますが、まだ古い形式のものにしか対応していません。
 
-- [オンライン辞典](http://ziphil.com/conlang/database/1.html)
+- [オンライン辞典](https://dic.ziphil.com)
 - [辞典データダウンロード](http://ziphil.com/conlang/database/4.html)
