@@ -3,7 +3,7 @@
 </div>
 
 ![](https://img.shields.io/github/commit-activity/y/Ziphil/ShaleianDictionaryNew?label=commits)
-![](https://img.shields.io/endpoint?label=words&url=https%3A%2F%2Fziphil.com%2Fprogram%2Finterface%2F3.cgi%3Fmode%3Dfetch_badge)
+![](https://img.shields.io/endpoint?label=words&url=https%3A%2F%2Fdic.ziphil.com%2Fapi%2Fdictionary%2Fbadge%2Fcount)
 
 
 ## 概要
