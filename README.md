@@ -10,8 +10,7 @@
 新シャレイア語辞典形式によるシャレイア語の辞典データです。
 このデータの閲覧には [ZpDIC for Shaleian](https://github.com/Ziphil/ZpdicShaleian) をご利用ください。
 
-オンライン辞典などの Web 上の各種辞典システムは、現在移行作業中です。
-以下のリンクから辞典データの検索やダウンロードができますが、まだ古い形式のものにしか対応していません。
+データの検索やダウンロードは、以下のリンクから行うのが便利です。
 
 - [オンライン辞典](https://dic.ziphil.com)
 - [辞典データダウンロード](http://ziphil.com/conlang/database/4.html)
