@@ -6,4 +6,4 @@
 
 M: 電話機を識別するための番号。
 
-E: < [kod] (< {kodil}) ＋ {liqet}。
+E: < {kod+} ＋ {liqet}。
