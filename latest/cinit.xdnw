@@ -6,9 +6,15 @@
 
 M: ?
 
+U: {cinit} は、食べ物や飲み物の全体の味を指す。一方で {feqcel} は、「塩味のラーメン」や「レモン味のお菓子」における「塩味」や「レモン味」のように、味の種類や方向性を表す。
+
+- <類> {feqcil}
+
 !EN
 + <N>
 = <N> taste, flavour, savour
 =? flavor, savor
 
 M: ?
+
+- <S> {feqcil}
