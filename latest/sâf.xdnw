@@ -12,7 +12,8 @@ U: 人に対する好みは {yis} も使える。{yis} の方が人の性格や�
 O: {e} 句にモノ名詞が置かれた例もコト名詞が置かれた例もあるが、これは 1 つの助詞にはモノかコトかのどちらかしか置けないという規則に反している。どうするか?
 O: 「気に入る」との違いは何か?
 
-- <類> {hilef}, {ráfec}, {yis}
+- <類> {hilef}
+- <類> {refcas}, {ráfec}, {yis}
 - <対> {buqot}
 
 !EN
@@ -20,5 +21,6 @@ O: 「気に入る」との違いは何か?
 = <V> (/a/, /e'n/) like, get fond of
 =? be fond of, fond
 
-- <S> {hilef}, {ráfec}, {yis}
+- <S> {hilef}
+- <S> {refcas}, {ráfec}, {yis}
 - <A> {buqot}
