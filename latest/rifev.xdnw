@@ -2,10 +2,13 @@
 
 !JA
 + <動>
-= <動> (/a/ が /e/ を /ca/ を) 演奏する, 奏でる, 奏する, 弾く
+= <動> (/a/ が /e/ を /zi/ を) 演奏する, 奏でる, 奏する, 弾く
 
 M: ?
 
-U: 楽器が {e} 句で楽曲が {ca} 句。
+U: 楽曲が {e} 句に置かれ、楽器が {zi} 句に置かれる。
+H: @4577 格組を {relíf} に合わせて変更した。
 
-S: {vomac rifevos a tel e gitâs teku lôk ile latvác atiset, zite salet a'l e coskosaxharòz.} → 私は中学生の頃から 10 年間ギターを弾いています。
+S: {vomac rifevos a tel zi gitâs teku lôk ile latvác atiset, zite salet a'l e coskosaxharòz.} → 私は中学生の頃から 10 年間ギターを弾いています。
+
+- <上> {relíf}
