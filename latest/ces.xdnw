@@ -5,9 +5,9 @@
 = <名> 彼, 彼女, その人
 
 U: 指示の人の代詞。
-U: {zis acik} と同じ意味だが、普通は {ces} を用いる。ただし、{ces} が表し得る対象が複数考えられる場合に、別々のものを指すということを明示する目的で、片方の {ces} を {zis acik} にすることがある。実際の用法は例文を参照。
-U: {tel}, {zál}, {loc} の 3 単語に対してだけは、{ces} を代わりとして用いることはできない。
-U: 基本的に文脈中で前に出てきた単語を指す。主節に前置された副詞節の中では、後に出てくる主節にある単語を指すこともある。
+U: {zis acik} と同じ意味だが、普通は {ces} が用いられる。ただし、{ces} が指し得る対象が複数考えられる場合に、別々のものを指しているということを明示する目的で、{ces} の代わりに {zis acik} が用いられることがある。実際の用法は下の例文を参照されたい。
+U: {tel}, {zál}, {loc} の 3 単語に対してだけは、{ces} がその代わりをすることはなく、{tel}, {zál}, {loc} が繰り返し用いられる。
+U: 基本的に文脈中で前に出てきた単語を指す。主節に前置された副詞節の中では、後に出てくる主節にある単語を指すことがある。
 
 S: {dusalot a tel e zis asokes itazi ʻxalih iti duqifot zelqotos a's e zis acik.} → 私はシャリアにとって無視できないほど大切な人間ではない。
 
@@ -16,8 +16,8 @@ S: {dusalot a tel e zis asokes itazi ʻxalih iti duqifot zelqotos a's e zis acik
 = <N> he, she, his, her, him
 
 U: A pronoun for a person.
-U: This word has the same meaning as {zis acik}, but usually {ces} is used. However, when several possible persons may be represented by {ces}, one of them is sometimes changed to {zis acik} in order to make it clear that they refer to different things. See the examples below for actual usage.
-U: Only the three words {tel}, {zál} and {loc} cannot be substituted by {ces}.
+U: This word has the same meaning as {zis acik}, but usually {ces} is used. However, when several possible persons may be represented by {ces}, {zis acik} may be used instead of {ces} in order to make it clear that they refer to different things. See the example below for the actual usage.
+U: Only the three words {tel}, {zál} and {loc} are never substituted by {ces}, and instead they are repeatedly used.
 U: Basically this refers to a word that comes before it in the context. In an adverbial clause preposed to the main clause, it may refer to a word in the main clause, which comes after it.
 
 S: {dusalot a tel e zis asokes itazi ʻxalih iti duqifot zelqotos a's e zis acik.} → I am not so important to Shalia that she cannot ignore.
