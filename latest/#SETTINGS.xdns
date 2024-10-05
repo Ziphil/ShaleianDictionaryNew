@@ -9,7 +9,7 @@
 !REVISION
 - @1139 {pacar} → {parec}
 - @1202 {los} → {loc}
-- @1202 {'s} → {'c}
+- @1202 {’s} → {’c}
 - @1202 {pe} → {á}
 - @1202 {fa} → {é}
 - @1202 {bi} → {à}
@@ -117,8 +117,8 @@
 - @2326 {calfos} → {cafos}
 - @2343 {tallic} → {vàtlic}
 - @2347 {kivilhiv} → {kibilhiv}
-- @2398 {il'} → {al'}
-- @2398 {ic'} → {ac'}
+- @2398 {il’} → {al’}
+- @2398 {ic’} → {ac’}
 - @2410 {zîdsax} → {kossax}
 - @2410 {zîddes} → {kosdes}
 - @2410 {zîdrahit} → {kosrahit}
